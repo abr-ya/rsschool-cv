@@ -1,2 +1,2 @@
-[link](https://abr-ya.github.io/rsschool-cv/cv)
-[link](https://abr-ya.github.io/rsschool-cv/)
+- [Markdown & Git](https://abr-ya.github.io/rsschool-cv/cv)
+- [HTML, CSS & Git Basics](https://abr-ya.github.io/rsschool-cv/)
