@@ -1,0 +1,14 @@
+.wrapper {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+main img {
+    margin-right: 20px;
+    float: left;
+    border-radius: 50%;
+}
+
+#contact-info ul {
+    list-style-type: none;
+}
